@@ -1,7 +1,7 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
 ### DATE: 19-09-2025
-### NAME: Preethi D
-### REG NO: 212224040250
+### NAME: JYOTSHANA S R
+### REG NO: 212224230111
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
 <div align= "justify">Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website, 
